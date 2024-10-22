@@ -12,26 +12,28 @@ A simple and responsive weather app that provides real-time weather data and a 5
 
 ### Demo
 
-![Weather App Screenshot](./images/demo.png)  
-(Add the live screenshot image)
+![Weather App Screenshot](./images/demo.png)
 
 [Live Demo](#)
 
-````bash
+```bash
     https://ananda-2.github.io/Weather-App/
+```
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-forecast-app.git
+   git clone https://github.com/Ananda-2/Weather-App.git
+   ```
+
 ````
 
 2. Navigate to the project folder:
 
    ```bash
    cd weather-forecast-app
-   ```
+````
 
 Open the index.html file in your browser:
 
