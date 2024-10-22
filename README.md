@@ -5,25 +5,28 @@ A simple and responsive weather app that provides real-time weather data and a 5
 ### Features
 
 - **Real-Time Weather**: Get current weather conditions including temperature, humidity, wind speed, and atmospheric pressure.
-- **5-Day Forecast**: Displays weather data at 3-hour intervals for the next 5 days.
+- **5-Day Forecast**: Displays weather data summary for the last 5 days.
 - **Unit Conversion**: Switch between Celsius (°C) and Fahrenheit (°F) easily.
 - **Custom Alerts**: Set alerts for high/low temperatures and strong winds.
 - **Responsive Design**: Works seamlessly on both desktop and mobile devices.
 
 ### Demo
 
-![Weather App Screenshot](path_to_your_image.png)  
+![Weather App Screenshot](./images/demo.png)  
 (Add the live screenshot image)
 
-[Live Demo](#)  
-(If hosted, provide the live demo link)
+[Live Demo](#)
+
+````bash
+    https://ananda-2.github.io/Weather-App/
 
 ### Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/weather-forecast-app.git
-   ```
+````
+
 2. Navigate to the project folder:
 
    ```bash
